@@ -1,4 +1,4 @@
-# 📉 Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 ## Project Overview
 This project tackles a real and pressing business problem: **why do customers leave telecommunications companies, and how can we stop it?**
@@ -36,7 +36,7 @@ To answer that question, I created a **dedicated DataFrame containing only churn
 
 ---
 
-## 📊 Step 5 — Comparative Analysis & Root Cause Discovery
+##  Step 5 — Comparative Analysis & Root Cause Discovery
 With the churned customer dataset in hand, I ran extensive comparisons across multiple variables — contract types, payment methods, service usage, tenure, and more. Each comparison was designed to test a hypothesis and either confirm or rule out a contributing factor.
 
 The result: a clear picture of the **most influential drivers of churn**, all documented and visualized in detail within the project.
