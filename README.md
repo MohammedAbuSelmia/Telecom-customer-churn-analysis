@@ -1,10 +1,49 @@
-# Telecom-customer-churn-analysis
-In this project, I brilliantly demonstrated the most influential factors causing customers to leave a telecommunications company and how we can solve these problems
-First, I used the Python programming language and several libraries for data analysis, including NumPy, Pandas, Matplotlib, and Seaborn.
-Second, I retrieved the data using Pandas functions and then created a DataFrame
-Third, before starting any analysis, we must thoroughly understand the data, what we want to learn from it, and explore its potential.
-Fourth, after performing some analysis, I found that approximately 26.54% of customers had left the company, a significant percentage. This raised the crucial question: why do customers leave?
-Fifth, I created a DataFrame specifically for those who left the company to focus on them and understand their reasons for leaving.
-Sixth, I performed numerous comparisons and analyses on these individuals, uncovering several contributing factors, all detailed within the project
+# 📉 Telecom Customer Churn Analysis
 
-Seventh, this project addressed a real problem facing the company and presented accurate and logical analyses to solve the issue of customer churn
+## Project Overview
+This project tackles a real and pressing business problem: **why do customers leave telecommunications companies, and how can we stop it?**
+
+Using Python and a full data analysis pipeline, I identified the most influential factors driving customer churn — and translated those findings into clear, actionable insights that a business can actually use.
+
+
+
+---
+
+##  Tools & Technologies
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
+---
+
+##  Step 1 — Data Retrieval & Structure
+Loaded the raw dataset using **Pandas** and structured it into a clean, well-organized DataFrame — the foundation for every analysis that followed.
+
+---
+
+##  Step 2 — Exploratory Data Analysis (EDA)
+Before drawing any conclusions, I invested time in truly *understanding* the data — its structure, column types, distributions, missing values, and hidden patterns. This step is critical: good analysis starts with good questions, and good questions start with knowing your data.
+
+---
+
+## Step 3 — Identifying the Core Problem
+Early analysis revealed that **26.54% of customers had churned** — a number far too significant to ignore. This became the central question driving the rest of the project:
+
+*What is causing more than 1 in 4 customers to leave?*
+
+---
+
+##  Step 4 — Building a Focused Churn Dataset
+To answer that question, I created a **dedicated DataFrame containing only churned customers**. This allowed me to analyze their behavior, demographics, and usage patterns in isolation — without noise from retained customers.
+
+---
+
+## 📊 Step 5 — Comparative Analysis & Root Cause Discovery
+With the churned customer dataset in hand, I ran extensive comparisons across multiple variables — contract types, payment methods, service usage, tenure, and more. Each comparison was designed to test a hypothesis and either confirm or rule out a contributing factor.
+
+The result: a clear picture of the **most influential drivers of churn**, all documented and visualized in detail within the project.
+
+---
+
+##  Step 6 — From Insights to Action
+This project didn't stop at identifying problems — it went further. Each finding was paired with a **logical, data-backed recommendation** to help the company reduce churn, retain high-risk customers, and make smarter decisions going forward.
+
+---
